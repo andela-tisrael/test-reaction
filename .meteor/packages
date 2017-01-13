@@ -17,7 +17,8 @@ browser-policy@1.0.9          # security-related policies enforced by newer brow
 juliancwirko:postcss          # CSS post-processing plugin (replaces standard-minifier-css)
 standard-minifier-js@1.2.1    # a minifier plugin used for Meteor apps by default
 session@1.1.7                 # ReactiveDict whose contents are preserved across Hot Code Push
-tracker@1.1.1                 # Meteor transparent reactive programming library
+tracker@1.1.1
+mongo@1.1.14                 # Meteor transparent reactive programming library
 random@1.0.10
 reactive-var@1.0.11
 reactive-dict@1.1.8
